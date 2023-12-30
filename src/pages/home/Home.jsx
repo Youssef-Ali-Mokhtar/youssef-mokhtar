@@ -1,5 +1,5 @@
 import HomeText from './HomeText';
-import HomeLogo from './HomeLogo';
+// import HomeLogo from './HomeLogo';
 
 const Home = () => {
 

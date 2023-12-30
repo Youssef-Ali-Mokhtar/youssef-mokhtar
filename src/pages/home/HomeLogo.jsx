@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import react from '../../assets/react-2.svg';
+// import react from '../../assets/react-2.svg';
 import node2 from '../../assets/node2.svg';
 const HomeLogo = () => {
     return (<motion.div
