@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import react from '../../assets/react-2.svg';
-
+import node2 from '../../assets/node2.svg';
 const HomeLogo = () => {
     return (<motion.div
                 initial={{x:'-100vw'}}
@@ -9,11 +9,9 @@ const HomeLogo = () => {
             >
                 <motion.img
                     className='home-logo'
-                    src={react} 
+                    src={node2} 
                     style={{  maxWidth: '100%',
                         height: 'auto'}}
-                    animate={{ rotate: 360}}
-                    transition={{ duration: 40, repeat: Infinity, ease: "linear" }}
                 />
             </motion.div> 
             );

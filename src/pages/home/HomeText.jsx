@@ -20,14 +20,14 @@ const HomeText = () => {
             animate={{opacity:1}}
             transition={{delay:1.5, duration:1}}
         >
-            Front-End React Developer
+            Full-Stack MERN Developer
         </motion.h1>
         <motion.p
             initial={{opacity:0}}
             animate={{opacity:1}}
             transition={{delay:2.2, duration:1}}
         >
-            Hi, I'm Youssef Mokhtar, a Front-end React Developer with a passion for crafting responsive web experiences.
+            Hello, I'm Youssef Mokhtar, a Full-Stack MERN Developer dedicated to building innovative and seamless web applications.
         </motion.p>
         <motion.div 
             className='button-wrapper'

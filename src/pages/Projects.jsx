@@ -2,6 +2,7 @@ import carthub from '../assets/carthub.PNG';
 import karkade from '../assets/karkade.PNG';
 import expenses from '../assets/expenses.PNG';
 import wassal from '../assets/wassal.PNG';
+import alster from '../assets/alster.png';
 import Project from '../components/Project';
 import { motion } from 'framer-motion';
 
@@ -9,7 +10,7 @@ const projects = [
     {
         title:'Carthub', 
         image:carthub, 
-        className:'carthub', 
+        className:'carthub',
         description:'Carthub is an e-commerce online marketplace for a wide range of products. Discover a diverse selection and shop conveniently for all your needs.',
         githubLink:'https://github.com/Youssef-Ali-Mokhtar/cart-hub/tree/master',
         demoLink:'https://youssef-ali-mokhtar.github.io/cart-hub'
@@ -21,6 +22,14 @@ const projects = [
         description:'Wassal is a shipping website where you can easily monitor the progress of your packages and shipments with convenience and peace of mind.',
         githubLink:'https://github.com/Youssef-Ali-Mokhtar/wassal/tree/master',
         demoLink:'https://youssef-ali-mokhtar.github.io/wassal'
+    },
+    {
+        title:'Alster (MERN)', 
+        image:alster, 
+        className:'carthub',
+        description:'Alster is a dynamic Full-Stack MERN project that facilitates seamless product listing. With robust authentication and authorization features, users can securely manage products. (Takes about 35 seconds for the server to wake up)',
+        githubLink:'https://github.com/Youssef-Ali-Mokhtar/alster/tree/master',
+        demoLink:'https://youssef-ali-mokhtar.github.io/alster'
     },
     {
         title:'Karkade', 

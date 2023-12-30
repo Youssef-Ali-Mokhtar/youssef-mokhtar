@@ -1,14 +1,13 @@
-import { SiJavascript, SiReact, SiHtml5, SiCss3, SiTypescript } from "react-icons/si";
+import { SiJavascript, SiReact, SiNodedotjs, SiExpress, SiMongodb } from "react-icons/si";
 import {motion} from 'framer-motion';
 
 const techStack = [
-    {skill:SiReact, color:'rgb(26, 115, 186)'},
-    {skill:SiTypescript, color:'rgb(0, 216, 255)'},
-    {skill:SiJavascript, color:'rgb(247, 223, 30)'},
-    {skill:SiCss3, color:'rgb(47, 116, 192)'},
-    {skill:SiHtml5, color:'rgb(229, 76, 33)'},
+  {skill:SiMongodb, color:'#4DB33D'},
+  {skill:SiExpress, color:'rgb(0, 216, 255)'},
+  {skill:SiNodedotjs, color:'#83BA63'},
+  {skill:SiReact, color:'rgb(26, 115, 186)'},
+  {skill:SiJavascript, color:'rgb(247, 223, 30)'},
 ]
-
 
 const containerVariants = {
     

@@ -27,7 +27,7 @@ a{
   width: 800px;
   height:fit-content;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   /* box-sizing: border-box; */
   /* margin:20px; */
@@ -41,14 +41,14 @@ a{
   height:fit-content;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  text-align: start;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   /* font-family: Cairo; */
 }
 .home-text h1{
   width: fit-content;
-  text-align: start;
+  text-align: center;
   /* line-height: 1.2; */
   font-size: 42px;
   font-family: Cairo;
