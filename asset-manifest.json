@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youssef-mokhtar/static/css/main.7fd3cc20.css",
-    "main.js": "/youssef-mokhtar/static/js/main.eb9a35fe.js",
+    "main.js": "/youssef-mokhtar/static/js/main.e29e81c3.js",
     "static/media/carthub.png": "/youssef-mokhtar/static/media/carthub.3ff005275533173e956b.png",
     "static/media/karkade.PNG": "/youssef-mokhtar/static/media/karkade.3ae7378a956ba63abf65.PNG",
     "static/media/YoussefMokhtarCV.pdf": "/youssef-mokhtar/static/media/YoussefMokhtarCV.8837facf1bd2540bcb08.pdf",
@@ -11,10 +11,10 @@
     "static/media/expenses.xlsx": "/youssef-mokhtar/static/media/expenses.de87d6aee31d3869daee.xlsx",
     "index.html": "/youssef-mokhtar/index.html",
     "main.7fd3cc20.css.map": "/youssef-mokhtar/static/css/main.7fd3cc20.css.map",
-    "main.eb9a35fe.js.map": "/youssef-mokhtar/static/js/main.eb9a35fe.js.map"
+    "main.e29e81c3.js.map": "/youssef-mokhtar/static/js/main.e29e81c3.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd3cc20.css",
-    "static/js/main.eb9a35fe.js"
+    "static/js/main.e29e81c3.js"
   ]
 }
