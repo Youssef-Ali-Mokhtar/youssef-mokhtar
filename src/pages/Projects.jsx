@@ -1,4 +1,4 @@
-import carthub from '../assets/carthub.PNG';
+import carthub from '../assets/carthub.png';
 import karkade from '../assets/karkade.PNG';
 import expenses from '../assets/expenses.PNG';
 import wassal from '../assets/wassal.PNG';
@@ -16,6 +16,14 @@ const projects = [
         demoLink:'https://youssef-ali-mokhtar.github.io/cart-hub'
     },
     {
+        title:'Karkade', 
+        image:karkade, 
+        className:'karkade', 
+        description:'Karkade is a social question-and-answer platform where you can share your thoughts, ask questions, and spark discussions on a wide range of topics.',
+        githubLink:'https://github.com/Youssef-Ali-Mokhtar/karkade/tree/master',
+        demoLink:'https://youssef-ali-mokhtar.github.io/karkade'
+    },
+    {
         title:'Wassal', 
         image:wassal, 
         className:'wassal', 
@@ -30,14 +38,6 @@ const projects = [
         description:'Alster is a dynamic Full-Stack MERN project that facilitates seamless product listing. With robust authentication and authorization features, users can securely manage products. (Takes about 35 seconds for the server to wake up)',
         githubLink:'https://github.com/Youssef-Ali-Mokhtar/alster/tree/master',
         demoLink:'https://youssef-ali-mokhtar.github.io/alster'
-    },
-    {
-        title:'Karkade', 
-        image:karkade, 
-        className:'karkade', 
-        description:'Karkade is a social question-and-answer platform where you can share your thoughts, ask questions, and spark discussions on a wide range of topics.',
-        githubLink:'https://github.com/Youssef-Ali-Mokhtar/karkade/tree/master',
-        demoLink:'https://youssef-ali-mokhtar.github.io/karkade'
     },
     {
         title:'Expenses Analysis', 

@@ -52,7 +52,7 @@ const Contact = () => {
                 </div>
                 <div className="contact-info-item">
                     <BsDiscord style={{fontSize:'32px', margin:'10px 10px 10px 0px', color:'rgb(20, 126, 251)'}}/>
-                    <span>goodnews#2529</span>
+                    <span>goodnews2529</span>
                 </div>
                 <div className="contact-info-item">
                     <MdLocationPin style={{fontSize:'32px', margin:'10px 10px 10px 0px', color:'rgb(20, 126, 251)'}}/>

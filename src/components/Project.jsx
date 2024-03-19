@@ -27,7 +27,7 @@ const Project = ({className, image, description, title, github, demo}) => {
         >
         <div className={Classes['project-image-holder']}>
             <Link to={demo} target='_blank'>
-                <img className={Classes['project-image']} src={image}/>
+                <img className={Classes['project-image']} src={image} alt={className}/>
             </Link>
         </div>
         <div className={Classes['project-text']}>
