@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import YoussefMokhtarCV from '../../assets/YoussefMokhtarCV.pdf';
+import YoussefMokhtarCV from '../../assets/YoussefCV.pdf';
 import fileDownload from "js-file-download";
 import Axios from "axios";
 
