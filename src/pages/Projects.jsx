@@ -9,12 +9,12 @@ import { motion } from 'framer-motion';
 
 const projects = [
     {
-        title:'Carthub',
+        title:'NeinGAG',
         image:neingag, 
-        className:'carthub',
+        className:'neingag',
         description:'Neingag is an online platform and social media website, which allows its users to share user-generated content and also can collaborate by commenting on questions that have been asked by other users.',
-        githubLink:'https://github.com/Youssef-Ali-Mokhtar/cart-hub/tree/master',
-        demoLink:'https://youssef-ali-mokhtar.github.io/cart-hub'
+        githubLink:'https://github.com/Youssef-Ali-Mokhtar/neingag',
+        demoLink:'https://youssef-ali-mokhtar.github.io/neingag'
     },
     {
         title:'Carthub',
