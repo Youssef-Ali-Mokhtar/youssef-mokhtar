@@ -1,9 +1,7 @@
 import carthub from '../assets/carthub.png';
 import karkade from '../assets/karkade.PNG';
-import expenses from '../assets/expenses.PNG';
 import wassal from '../assets/wassal.PNG';
 import neingag from '../assets/neingag.png';
-import alster from '../assets/alster.png';
 import Project from '../components/Project';
 import { motion } from 'framer-motion';
 
