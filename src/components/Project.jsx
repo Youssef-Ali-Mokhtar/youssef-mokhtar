@@ -7,8 +7,9 @@ import expensesFile from '../assets/expenses.xlsx';
 import fileDownload from "js-file-download";
 import Axios from "axios";
 
-const Project = ({className, image, description, title, github, demo}) => {
+const Project = ({className, image, description, title, github, demo, index}) => {
 
+    const isReversed = (index%2 === 1)?Classes['reverse']:"";
     const download = (e) => {
         e.preventDefault();
         Axios({
@@ -21,7 +22,7 @@ const Project = ({className, image, description, title, github, demo}) => {
       };
 
     return ( <motion.div 
-            className={Classes['project']+" "+Classes[className]}
+            className={Classes['project']+" "+Classes[className]+" "+isReversed}
             initial={{opacity:0}}
             whileInView={{opacity:1, transition:{duration:1}}}
         >

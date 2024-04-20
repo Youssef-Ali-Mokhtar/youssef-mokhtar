@@ -10,22 +10,10 @@
     margin-bottom: 30px;
 }
 
-.carthub{
-    flex-direction: row;
-}
 
-.wassal{
+.reverse{
     flex-direction: row-reverse;
 }
-
-.karkade{
-    flex-direction: row;
-}
-
-.expenses-analysis{
-    flex-direction: row-reverse;
-}
-
 
 .project-image-holder{
     width:60%;
@@ -103,28 +91,13 @@
 @media only screen and (max-width: 899px) {
     .project{
         height: 600px;
+        flex-direction: column;
     }
 
     .project-image-holder{
         width:100%;
         height: 60%;
         border-radius: 20px;
-    }
-
-    .carthub{
-        flex-direction: column;
-    }
-    
-    .wassal{
-        flex-direction: column;
-    }
-    
-    .karkade{
-        flex-direction: column;
-    }
-    
-    .expenses-analysis{
-        flex-direction: column;
     }
 
     .project-text{
