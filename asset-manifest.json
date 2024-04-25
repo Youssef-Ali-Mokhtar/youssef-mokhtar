@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/youssef-mokhtar/static/css/main.a7d35dfa.css",
-    "main.js": "/youssef-mokhtar/static/js/main.42b3b00b.js",
+    "main.js": "/youssef-mokhtar/static/js/main.f52f2ab7.js",
     "static/media/carthub.png": "/youssef-mokhtar/static/media/carthub.3ff005275533173e956b.png",
     "static/media/karkade.PNG": "/youssef-mokhtar/static/media/karkade.3ae7378a956ba63abf65.PNG",
     "static/media/neingag.png": "/youssef-mokhtar/static/media/neingag.f231353319ed4c458a20.png",
-    "static/media/YoussefCV.pdf": "/youssef-mokhtar/static/media/YoussefCV.6f3369fffdcee403befe.pdf",
+    "static/media/YoussefCV.pdf": "/youssef-mokhtar/static/media/YoussefCV.6fbda7728a013a3e1430.pdf",
     "static/media/wassal.PNG": "/youssef-mokhtar/static/media/wassal.51b32029569438164967.PNG",
     "static/media/expenses.xlsx": "/youssef-mokhtar/static/media/expenses.de87d6aee31d3869daee.xlsx",
     "index.html": "/youssef-mokhtar/index.html",
     "main.a7d35dfa.css.map": "/youssef-mokhtar/static/css/main.a7d35dfa.css.map",
-    "main.42b3b00b.js.map": "/youssef-mokhtar/static/js/main.42b3b00b.js.map"
+    "main.f52f2ab7.js.map": "/youssef-mokhtar/static/js/main.f52f2ab7.js.map"
   },
   "entrypoints": [
     "static/css/main.a7d35dfa.css",
-    "static/js/main.42b3b00b.js"
+    "static/js/main.f52f2ab7.js"
   ]
 }
