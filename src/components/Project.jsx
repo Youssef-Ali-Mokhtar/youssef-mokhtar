@@ -33,6 +33,10 @@ const Project = ({className, image, description, title, github, demo, index}) =>
         </div>
         <div className={Classes['project-text']}>
             <h1 className={Classes['project-title']}>{title}</h1>
+            {
+                className === 'neingag' &&
+                <p style={{color:'orange'}}>{'(Server needs 20 seconds to wake up)'}</p>
+            }
             <p className={Classes['project-description']}>
                 {description}
             </p>
